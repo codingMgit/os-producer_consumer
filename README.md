@@ -1,6 +1,8 @@
 <b>
 Producer-Consumer Problem with Semaphores
-Aim
+
+  
+**Aim:**
 Implement the classic Producer-Consumer synchronization problem using semaphores and threads.
 Description
 The Producer-Consumer problem demonstrates inter-process communication and synchronization:
