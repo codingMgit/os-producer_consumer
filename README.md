@@ -1,3 +1,4 @@
+<h1>
 Producer-Consumer Problem with Semaphores
 Aim
 Implement the classic Producer-Consumer synchronization problem using semaphores and threads.
@@ -34,3 +35,4 @@ Acquire mutex
 Remove item from buffer
 Release mutex
 Signal empty semaphore
+</h1>
