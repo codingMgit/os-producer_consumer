@@ -38,4 +38,27 @@ Acquire mutex
 Remove item from buffer
 Release mutex
 Signal empty semaphore
+
+
+Output:
+Produced: 0
+Produced: 1
+Consumed: 0
+Produced: 2
+Consumed: 1
+Produced: 3
+Consumed: 2
+Produced: 4
+Consumed: 3
+Produced: 5
+Consumed: 4
+Produced: 6
+Consumed: 5
+Produced: 7
+Consumed: 6
+Produced: 8
+Consumed: 7
+Produced: 9
+Consumed: 8
+Consumed: 9
 </b>
